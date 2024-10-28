@@ -20,3 +20,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+    .CodeMirror {
+        color: #FF3333 !important;
+    }
+    
+    .EasyMDEContainer {
+         background-color: #F8FF91 !important;
+    }
+</style>
