@@ -1,13 +1,14 @@
-<div align="center" style="background-image: url('https://i.pinimg.com/originals/eb/f9/28/ebf92832fd0e8ef1744ddd9de4afc820.png'); padding: 20px; border-radius: 10px;">
+<div align="center" style="background-color:#0d1b2a; padding: 20px; border-radius: 10px; color: #ffffff;">
   
   <h1>Hi there 👋 I'm Rajvendra Rahi 🚀</h1>
 
   <p>I'm Rajvendra Rahi from India, a passionate coder who loves creating solutions and exploring the world of tech. Welcome to my GitHub profile! Here, you'll find projects that span data analysis, machine learning, and more. 🌌</p>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodyrahi&layout=compact&theme=radical)
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodyrahi&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodyrahi&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rodyrahi&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 </div>
+
 
 ---
 
