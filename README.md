@@ -1,4 +1,4 @@
-<div align="center" style="background-color:#0d1b2a; padding: 20px; border-radius: 10px; color: #ffffff;">
+<div align="center" style="background-color:red; padding: 20px; border-radius: 10px; color: #ffffff;">
   
   <h1>Hi there 👋 I'm Rajvendra Rahi 🚀</h1>
 
