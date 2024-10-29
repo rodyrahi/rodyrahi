@@ -30,8 +30,8 @@
 - **Machine Learning**: scikit-learn, NLTK
 
 ## 🌠 Get in Touch
-- 📫 **Email**: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 **Website**: [Your Website](https://yourwebsite.com) *(if applicable)*
+- 📫 **Email**: [rajvendrarahi126@gmail.com](mailto:rajvendrarahi126@gmail.com)
+
 
 ---
 
