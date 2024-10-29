@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **HealthStat Solutions**, a Power BI healthcare analytics project
+- 🔭 I’m currently working on **Pivott**, a Data Science Project
 - 🌱 I’m always learning new tools and technologies to enhance my skillset
 - 👯 I’m open to collaborating on **data analysis, machine learning, and web development projects**
 - ⚡ Fun fact: I’m a space enthusiast! Stars and coding—both are limitless! ✨
