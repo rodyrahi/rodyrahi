@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 
 *{
-  font-family: "Rubik", serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 </style>
