@@ -1,12 +1,4 @@
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
-
-*{
-  font-family: "Montserrat", sans-serif;
-}
-
-</style>
 
 
 <div align="center" style="background-color:red; padding: 20px; border-radius: 10px; color: #ffffff;">
