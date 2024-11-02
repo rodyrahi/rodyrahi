@@ -2,7 +2,7 @@
   
   
   <p align="center">
-    <img src="https://media.tenor.com/QZIOWXld-s0AAAAM/pretty-sky.gif" height="500" width="1000"/>
+    <img src="https://media.tenor.com/QZIOWXld-s0AAAAM/pretty-sky.gif" style="border-radius: 2rem;" height="500" width="1000"/>
   </p>
   <h1>Hi there 👋 I'm Rajvendra Rahi 🚀</h1>
 
