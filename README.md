@@ -2,7 +2,7 @@
   
   
   <p align="center">
-    <img src="[https://cdn.pixabay.com/animation/2022/11/16/14/56/14-56-49-778_512.gif]" height="500" width="1000"/>
+    <img src="https://cdn.pixabay.com/animation/2022/11/16/14/56/14-56-49-778_512.gif" height="500" width="1000"/>
   </p>
   <h1>Hi there 👋 I'm Rajvendra Rahi 🚀</h1>
 
