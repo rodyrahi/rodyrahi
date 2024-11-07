@@ -85,7 +85,7 @@
     </td>
     <!-- Image on the Right -->
     <td style="width: 30%; vertical-align: top; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/aee3c7dc-1905-48c7-bcc8-47bbfe15bc2b" alt="Tech Stack Image" style="border-radius: 10px; max-width: 100%;" />
+      <img src="https://cdn.pixabay.com/animation/2022/11/13/07/16/07-16-41-513_512.gif" alt="Tech Stack Image" style="border-radius: 10px; max-width: 100%;" />
     </td>
   </tr>
 </table>
