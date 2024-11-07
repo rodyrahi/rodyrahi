@@ -30,7 +30,7 @@
     </td>
     <!-- Image on the Right -->
     <td style="vertical-align: top; width: 50%;">
-      <img src="https://github.com/user-attachments/assets/aee3c7dc-1905-48c7-bcc8-47bbfe15bc2b" alt="About Me Image" style="border-radius: 10px; width: 100%; max-width: 300px;" />
+      <img src="https://github.com/user-attachments/assets/aee3c7dc-1905-48c7-bcc8-47bbfe15bc2b" alt="About Me Image" style="border-radius: 10px; width: 100%; max-width: 600px;" />
     </td>
   </tr>
 </table>
