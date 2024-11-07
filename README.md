@@ -42,7 +42,7 @@
     <!-- About Me Section on the Left -->
     <!-- Image on the Right -->
     <td style="vertical-align: top; width: 50%;">
-      <img src="https://github.com/user-attachments/assets/aee3c7dc-1905-48c7-bcc8-47bbfe15bc2b" alt="About Me Image" style="border-radius: 10px; width: 100%; max-width: 300px;" />
+      <img src="https://media3.giphy.com/media/MG1Ku4d75YXkyGGT0S/200w.webp?cid=ecf05e47epkv78xgc7nq5jdw34e4n5a2elqop2aoqxgx4pyy&ep=v1_gifs_related&rid=200w.webp&ct=g" alt="About Me Image" style="border-radius: 10px; width: 100%; max-width: 300px;" />
     </td>
      <td style="vertical-align: top; width: 50%;">
       <h2>🌌 Projects</h2>
