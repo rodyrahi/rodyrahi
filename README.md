@@ -20,7 +20,7 @@
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <!-- About Me Section on the Left -->
-  <div style="flex: 1;">
+  <div style="flex: 1; max-width: 50%;">
     <h2>🚀 About Me</h2>
     <p>🔭 I’m currently working on <strong>Pivott</strong>, a Data Science Project</p>
     <p>🌱 I’m always learning new tools and technologies to enhance my skillset</p>
@@ -29,8 +29,8 @@
   </div>
   
   <!-- Image on the Right -->
-  <div style="flex: 1;">
-    <img src="https://github.com/user-attachments/assets/aee3c7dc-1905-48c7-bcc8-47bbfe15bc2b" alt="zSm3OcE" style="border-radius: 10px; width: 100%; max-width: 300px;" />
+  <div style="flex: 1; display: flex; justify-content: center; max-width: 50%;">
+    <img src="https://github.com/user-attachments/assets/aee3c7dc-1905-48c7-bcc8-47bbfe15bc2b" alt="About Me Image" style="border-radius: 10px; width: 100%; max-width: 300px;" />
   </div>
 </div>
 
