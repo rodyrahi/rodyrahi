@@ -44,10 +44,26 @@
 - [More projects...](https://github.com/rodyrahi?tab=repositories)
 
 ## 💻 Tech Stack
-- **Languages**: Python, SQL, DAX
-- **Data Analysis**: Pandas, NumPy, Power BI
-- **Visualization**: Matplotlib, Seaborn, Power BI
-- **Machine Learning**: scikit-learn, NLTK
+
+- **Languages**:
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+  ![DAX](https://img.shields.io/badge/-DAX-005A9C?logo=Microsoft&logoColor=white)
+
+- **Data Analysis**:
+  ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black)
+
+- **Visualization**:
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white)
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logoColor=white)
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black)
+
+- **Machine Learning**:
+  ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+  ![NLTK](https://img.shields.io/badge/-NLTK-0A0A0A?logo=python&logoColor=white)
+
 
 ## 🌠 Get in Touch
 - 📫 **Email**: [rajvendrarahi126@gmail.com](mailto:rajvendrarahi126@gmail.com)
