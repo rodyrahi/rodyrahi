@@ -41,7 +41,7 @@
     <!-- About Me Section on the Left -->
     <!-- Image on the Right -->
     <td style="vertical-align: top; width: 50%;">
-      <img src="https://media0.giphy.com/media/3oEhn2LiBCmcAU5yvu/200w.webp?cid=ecf05e474i2xzuttp50iideo73xt05i4cn098d0ddytndhv2&ep=v1_gifs_related&rid=200w.webp&ct=g" alt="About Me Image" style="border-radius: 10px; width: 100%; max-width: 300px;" />
+      <img src="https://media0.giphy.com/media/3oEhn2LiBCmcAU5yvu/200w.webp?cid=ecf05e474i2xzuttp50iideo73xt05i4cn098d0ddytndhv2&ep=v1_gifs_related&rid=200w.webp" alt="About Me Image" style="border-radius: 10px; width: 100%; max-width: 300px;" />
     </td>
      <td style="vertical-align: top; width: 50%;">
       <h2>🌌 Projects</h2>
