@@ -8,7 +8,8 @@
   <h1>Hi there 👋 I'm Rajvendra Rahi 🚀</h1>
 
   <br>
-  <pre>I'm Rajvendra Rahi from India, a passionate coder who loves creating solutions and exploring the world of tech. Welcome to my GitHub profile! Here, you'll find projects that span data analysis, machine learning, and more. 🌌</pre>
+  <pre>I'm Rajvendra Rahi from India, a passionate coder who loves creating solutions and exploring the world of tech. 
+    Welcome to my GitHub profile! Here, you'll find projects that span data analysis, machine learning, and more. 🌌</pre>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodyrahi&layout=compact&theme=radical" alt="Top Languages" />
   <br>
