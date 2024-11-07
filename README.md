@@ -18,15 +18,22 @@
 
 
 
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <!-- About Me Section on the Left -->
+  <div style="flex: 1;">
+    <h2>🚀 About Me</h2>
+    <p>🔭 I’m currently working on <strong>Pivott</strong>, a Data Science Project</p>
+    <p>🌱 I’m always learning new tools and technologies to enhance my skillset</p>
+    <p>👯 I’m open to collaborating on <strong>data analysis, machine learning, and web development projects</strong></p>
+    <p>⚡ Fun fact: I’m a space enthusiast! Stars and coding—both are limitless! ✨</p>
+  </div>
+  
+  <!-- Image on the Right -->
+  <div style="flex: 1;">
+    <img src="https://github.com/user-attachments/assets/aee3c7dc-1905-48c7-bcc8-47bbfe15bc2b" alt="zSm3OcE" style="border-radius: 10px; width: 100%; max-width: 300px;" />
+  </div>
+</div>
 
-## 🚀 About Me
-
-🔭 I’m currently working on **Pivott**, a Data Science Project  
-🌱 I’m always learning new tools and technologies to enhance my skillset  
-👯 I’m open to collaborating on **data analysis, machine learning, and web development projects**  
-⚡ Fun fact: I’m a space enthusiast! Stars and coding—both are limitless! ✨
-
-<img src="https://github.com/user-attachments/assets/aee3c7dc-1905-48c7-bcc8-47bbfe15bc2b" alt="zSm3OcE" align="right" width="300" style="border-radius: 10px; margin-left: 20px;" />
 
 
 
