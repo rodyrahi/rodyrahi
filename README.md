@@ -18,21 +18,22 @@
 
 
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <!-- About Me Section on the Left -->
-  <div style="flex: 1; max-width: 50%;">
-    <h2>🚀 About Me</h2>
-    <p>🔭 I’m currently working on <strong>Pivott</strong>, a Data Science Project</p>
-    <p>🌱 I’m always learning new tools and technologies to enhance my skillset</p>
-    <p>👯 I’m open to collaborating on <strong>data analysis, machine learning, and web development projects</strong></p>
-    <p>⚡ Fun fact: I’m a space enthusiast! Stars and coding—both are limitless! ✨</p>
-  </div>
-  
-  <!-- Image on the Right -->
-  <div style="flex: 1; display: flex; justify-content: center; max-width: 50%;">
-    <img src="https://github.com/user-attachments/assets/aee3c7dc-1905-48c7-bcc8-47bbfe15bc2b" alt="About Me Image" style="border-radius: 10px; width: 100%; max-width: 300px;" />
-  </div>
-</div>
+<table>
+  <tr>
+    <!-- About Me Section on the Left -->
+    <td style="vertical-align: top; width: 50%;">
+      <h2>🚀 About Me</h2>
+      <p>🔭 I’m currently working on <strong>Pivott</strong>, a Data Science Project</p>
+      <p>🌱 I’m always learning new tools and technologies to enhance my skillset</p>
+      <p>👯 I’m open to collaborating on <strong>data analysis, machine learning, and web development projects</strong></p>
+      <p>⚡ Fun fact: I’m a space enthusiast! Stars and coding—both are limitless! ✨</p>
+    </td>
+    <!-- Image on the Right -->
+    <td style="vertical-align: top; width: 50%;">
+      <img src="https://github.com/user-attachments/assets/aee3c7dc-1905-48c7-bcc8-47bbfe15bc2b" alt="About Me Image" style="border-radius: 10px; width: 100%; max-width: 300px;" />
+    </td>
+  </tr>
+</table>
 
 
 
