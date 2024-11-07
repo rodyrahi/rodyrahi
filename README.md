@@ -87,9 +87,6 @@
     <td style="width: 30%; vertical-align: top; text-align: center;">
       <img src="https://cdn.pixabay.com/animation/2022/11/13/07/16/07-16-41-513_512.gif" alt="Tech Stack Image" style="border-radius: 10px; max-width: 100%;" />
     </td>
-    <td style="width: 30%; vertical-align: top; text-align: center;">
-          <img src="https://steamuserimages-a.akamaihd.net/ugc/1559892058410009542/5C7CF0758379EE2E0904EE2523DA0E2B9A253D91/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Tech Stack Image" style="border-radius: 10px; max-width: 100%;" />
-    </td>
   </tr>
 </table>
 </div>
