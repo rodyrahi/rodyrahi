@@ -59,50 +59,36 @@
 </table>
 
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <!-- Tech Stack Table on the Left -->
-  <div style="flex: 1;">
-    <h2>💻 Tech Stack</h2>
-      <table>
-        <tr>
-          <td><strong>Languages</strong>:</td>
-          <td>
-            <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
-            <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL" />
-            <img src="https://img.shields.io/badge/-DAX-005A9C?logo=Microsoft&logoColor=white" alt="DAX" />
-          </td>
-        </tr>
-        <tr>
-          <td><strong>Data Analysis</strong>:</td>
-          <td>
-            <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
-            <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
-            <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black" alt="Power BI" />
-          </td>
-        </tr>
-        <tr>
-          <td><strong>Visualization</strong>:</td>
-          <td>
-            <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white" alt="Matplotlib" />
-            <img src="https://img.shields.io/badge/-Seaborn-3776AB?logoColor=white" alt="Seaborn" />
-            <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black" alt="Power BI" />
-          </td>
-        </tr>
-        <tr>
-          <td><strong>Machine Learning</strong>:</td>
-          <td>
-            <img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-            <img src="https://img.shields.io/badge/-NLTK-0A0A0A?logo=python&logoColor=white" alt="NLTK" />
-          </td>
-        </tr>
-      </table>
-  </div>
-  
-  <!-- Image on the Right -->
-  <div style="flex: 1;">
-    <img src="https://github.com/user-attachments/assets/aee3c7dc-1905-48c7-bcc8-47bbfe15bc2b" alt="Tech Stack Image" style="border-radius: 10px; width: 100%; max-width: 300px;" />
-  </div>
-</div>
+<table style="width: 100%;">
+  <tr>
+    <!-- Tech Stack Information on the Left -->
+    <td style="width: 70%; vertical-align: top;">
+      <h2>💻 Tech Stack</h2>
+      <strong>Languages</strong>:  
+      <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/-DAX-005A9C?logo=Microsoft&logoColor=white" alt="DAX" />
+      <br><br>
+      <strong>Data Analysis</strong>:  
+      <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black" alt="Power BI" />
+      <br><br>
+      <strong>Visualization</strong>:  
+      <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white" alt="Matplotlib" />
+      <img src="https://img.shields.io/badge/-Seaborn-3776AB?logoColor=white" alt="Seaborn" />
+      <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black" alt="Power BI" />
+      <br><br>
+      <strong>Machine Learning</strong>:  
+      <img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/-NLTK-0A0A0A?logo=python&logoColor=white" alt="NLTK" />
+    </td>
+    <!-- Image on the Right -->
+    <td style="width: 30%; vertical-align: top; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/aee3c7dc-1905-48c7-bcc8-47bbfe15bc2b" alt="Tech Stack Image" style="border-radius: 10px; max-width: 100%;" />
+    </td>
+  </tr>
+</table>
 
 
 
