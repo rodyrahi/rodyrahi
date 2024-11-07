@@ -37,11 +37,27 @@
 
 
 
+<table>
+  <tr  >
+    <!-- About Me Section on the Left -->
+    <td style="vertical-align: top; width: 50%;">
+      <h2>🌌 Projects</h2>
+      <p> <strong>App Store Review Analysis<strong/>: EDA and sentiment analysis using Python, NLTK, scikit-learn, and Matplotlib</p>
+      <p> <strong>HealthStat Solutions<strong/>: Interactive Power BI dashboard for healthcare analytics</p>
+      <a href="https://github.com/rodyrahi?tab=repositories"> More Projects </p>
+    </td>
+    <!-- Image on the Right -->
+    <td style="vertical-align: top; width: 50%;">
+      <img src="https://github.com/user-attachments/assets/aee3c7dc-1905-48c7-bcc8-47bbfe15bc2b" alt="About Me Image" style="border-radius: 10px; width: 100%; max-width: 300px;" />
+    </td>
+  </tr>
+</table>
+
 
 ## 🌌 Projects
 - **App Store Review Analysis**: EDA and sentiment analysis using Python, NLTK, scikit-learn, and Matplotlib
 - **HealthStat Solutions**: Interactive Power BI dashboard for healthcare analytics
-- [More projects...](https://github.com/rodyrahi?tab=repositories)
+- 
 
 ## 💻 Tech Stack
 
