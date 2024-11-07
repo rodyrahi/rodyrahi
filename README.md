@@ -20,6 +20,7 @@
 
 
 <div style="display: flex; align-items: center; gap: 20px;">
+  <!-- About Me Section on the Left -->
   <div style="flex: 1;">
     <h2>🚀 About Me</h2>
     <ul>
@@ -30,6 +31,7 @@
     </ul>
   </div>
   
+  <!-- Image on the Right -->
   <div style="flex: 1;">
     <img src="https://github.com/user-attachments/assets/aee3c7dc-1905-48c7-bcc8-47bbfe15bc2b" alt="zSm3OcE" style="border-radius: 10px; width: 100%; max-width: 300px;" />
   </div>
