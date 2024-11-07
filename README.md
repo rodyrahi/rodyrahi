@@ -57,11 +57,6 @@
 
 
 
-## 🌌 Projects
-- **App Store Review Analysis**: EDA and sentiment analysis using Python, NLTK, scikit-learn, and Matplotlib
-- **HealthStat Solutions**: Interactive Power BI dashboard for healthcare analytics
-- 
-
 ## 💻 Tech Stack
 
 - **Languages**:
