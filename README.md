@@ -36,13 +36,12 @@
 </table>
 
 
-
 <table>
   <tr>
     <!-- About Me Section on the Left -->
     <!-- Image on the Right -->
     <td style="vertical-align: top; width: 50%;">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXA0dnN0bnI4cXF1bDlrNzd2cGpqaWxpYWEwNTViMXMwZWZwbWY0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEhn2LiBCmcAU5yvu/giphy.webp" alt="About Me Image" style="border-radius: 10px; width: 100%; max-width: 300px;" />
+      <img src="https://giphy.com/embed/3oEhn2LiBCmcAU5yvu" alt="About Me Image" style="border-radius: 10px; width: 100%; max-width: 300px;" />
     </td>
      <td style="vertical-align: top; width: 50%;">
       <h2>🌌 Projects</h2>
