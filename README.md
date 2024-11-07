@@ -96,9 +96,12 @@
 - 📫 **Email**: [rajvendrarahi126@gmail.com](mailto:rajvendrarahi126@gmail.com)
 
 ---
-<p align="center">
+<div style="background-image: url('https://64.media.tumblr.com/d823abd644fa478fb244bd5a96e4ed12/tumblr_obfjz6Bd9f1runoqyo1_540.gif'); background-size: cover; background-position: center;">
+  <p align="center">
     <img src="https://github.com/user-attachments/assets/7ff7a238-250a-40b9-bb04-19c07809b367" style="border-radius: 2rem;" height="256" width="500"/>
   </p>
+</div>
+
 
 
 
