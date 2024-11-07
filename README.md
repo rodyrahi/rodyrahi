@@ -22,7 +22,6 @@
 
 ![three-js-animated-rocket](https://github.com/user-attachments/assets/177bc7df-469e-43c2-88c5-66e213f4bfed)
 
-<br>
 
 
 <table>
