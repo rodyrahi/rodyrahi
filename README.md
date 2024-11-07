@@ -1,8 +1,6 @@
-
-
+---
 
 <div align="center" style="background-color:red; padding: 20px; border-radius: 10px; color: #ffffff;">
-  
   
   <p align="center">
     <img src="https://media.tenor.com/QZIOWXld-s0AAAAM/pretty-sky.gif" style="border-radius: 2rem;" height="500" width="1000"/>
@@ -16,16 +14,25 @@
 
 </div>
 
-
 ---
 
-![zSm3OcE](https://github.com/user-attachments/assets/aee3c7dc-1905-48c7-bcc8-47bbfe15bc2b)
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="flex: 1;">
+    <h2>🚀 About Me</h2>
+    <ul>
+      <li>🔭 I’m currently working on <strong>Pivott</strong>, a Data Science Project</li>
+      <li>🌱 I’m always learning new tools and technologies to enhance my skillset</li>
+      <li>👯 I’m open to collaborating on <strong>data analysis, machine learning, and web development projects</strong></li>
+      <li>⚡ Fun fact: I’m a space enthusiast! Stars and coding—both are limitless! ✨</li>
+    </ul>
+  </div>
+  
+  <div style="flex: 1;">
+    <img src="https://github.com/user-attachments/assets/aee3c7dc-1905-48c7-bcc8-47bbfe15bc2b" alt="zSm3OcE" style="border-radius: 10px; width: 100%; max-width: 300px;" />
+  </div>
+</div>
 
-## 🚀 About Me
-- 🔭 I’m currently working on **Pivott**, a Data Science Project
-- 🌱 I’m always learning new tools and technologies to enhance my skillset
-- 👯 I’m open to collaborating on **data analysis, machine learning, and web development projects**
-- ⚡ Fun fact: I’m a space enthusiast! Stars and coding—both are limitless! ✨
+---
 
 ## 🌌 Projects
 - **App Store Review Analysis**: EDA and sentiment analysis using Python, NLTK, scikit-learn, and Matplotlib
@@ -40,7 +47,6 @@
 
 ## 🌠 Get in Touch
 - 📫 **Email**: [rajvendrarahi126@gmail.com](mailto:rajvendrarahi126@gmail.com)
-
 
 ---
 
