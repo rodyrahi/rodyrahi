@@ -48,6 +48,14 @@
       <ul>
         <li><strong>App Store Review Analysis</strong>: EDA and sentiment analysis using Python, NLTK, scikit-learn, and Matplotlib</li>
         <li><strong>HealthStat Solutions</strong>: Interactive Power BI dashboard for healthcare analytics</li>
+        <button 
+    style="padding: 10px 20px; font-size: 16px; color: white; background-color: #1e3a8a; border: none; border-radius: 5px; cursor: pointer; transition: background-color 0.3s;"
+    onmouseover="this.style.backgroundColor='#3340b0';"
+    onmouseout="this.style.backgroundColor='#1e3a8a';"
+    onclick="alert('Space button clicked!')">
+    Space
+  </button>
+
         <li><a href="https://github.com/rodyrahi?tab=repositories">More Projects</a></li>
       </ul>
     </td>
