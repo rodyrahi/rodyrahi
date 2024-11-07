@@ -1,4 +1,24 @@
 
+<div align="center" style="background-color:red; padding: 20px; border-radius: 10px; color: #ffffff;">
+  
+  
+  <p align="center">
+    <img src="https://media.tenor.com/QZIOWXld-s0AAAAM/pretty-sky.gif" style="border-radius: 2rem;" height="500" width="1000"/>
+  </p>
+  <h1>Hi there 👋 I'm Rajvendra Rahi 🚀</h1>
+
+  <p>I'm Rajvendra Rahi from India, a passionate coder who loves creating solutions and exploring the world of tech. Welcome to my GitHub profile! Here, you'll find projects that span data analysis, machine learning, and more. 🌌</p>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodyrahi&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rodyrahi&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+</div>
+
+
+---
+
+![zSm3OcE](https://github.com/user-attachments/assets/aee3c7dc-1905-48c7-bcc8-47bbfe15bc2b)
+
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
