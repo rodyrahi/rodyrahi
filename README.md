@@ -58,7 +58,7 @@
   </tr>
 </table>
 
-
+<div>
 <table style="width: 100%;">
   <tr>
     <!-- Tech Stack Information on the Left -->
@@ -89,7 +89,7 @@
     </td>
   </tr>
 </table>
-
+</div>
 
 
 ## 🌠 Get in Touch
