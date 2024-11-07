@@ -15,7 +15,7 @@
 </div>
 
 
----
+
 
 
 
@@ -28,7 +28,7 @@
 
 <img src="https://github.com/user-attachments/assets/aee3c7dc-1905-48c7-bcc8-47bbfe15bc2b" alt="zSm3OcE" align="right" width="300" style="border-radius: 10px; margin-left: 20px;" />
 
----
+
 
 ## 🌌 Projects
 - **App Store Review Analysis**: EDA and sentiment analysis using Python, NLTK, scikit-learn, and Matplotlib
