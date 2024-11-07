@@ -55,7 +55,8 @@
 ---
 
 <div align="center">
-  <em>It's all About making a change 🌌✨</em>
+  ![2024-11-07--It-s-all-About-making-a-change-](https://github.com/user-attachments/assets/7ff7a238-250a-40b9-bb04-19c07809b367)
+
 </div>
 
 
