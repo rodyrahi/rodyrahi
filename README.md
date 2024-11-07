@@ -40,17 +40,17 @@
 <table>
   <tr>
     <!-- About Me Section on the Left -->
+    <!-- Image on the Right -->
     <td style="vertical-align: top; width: 50%;">
+      <img src="https://github.com/user-attachments/assets/aee3c7dc-1905-48c7-bcc8-47bbfe15bc2b" alt="About Me Image" style="border-radius: 10px; width: 100%; max-width: 300px;" />
+    </td>
+     <td style="vertical-align: top; width: 50%;">
       <h2>🌌 Projects</h2>
       <ul>
         <li><strong>App Store Review Analysis</strong>: EDA and sentiment analysis using Python, NLTK, scikit-learn, and Matplotlib</li>
         <li><strong>HealthStat Solutions</strong>: Interactive Power BI dashboard for healthcare analytics</li>
+        <li><a href="https://github.com/rodyrahi?tab=repositories">More Projects</a></li>
       </ul>
-      <a href="https://github.com/rodyrahi?tab=repositories">More Projects</a>
-    </td>
-    <!-- Image on the Right -->
-    <td style="vertical-align: top; width: 50%;">
-      <img src="https://github.com/user-attachments/assets/aee3c7dc-1905-48c7-bcc8-47bbfe15bc2b" alt="About Me Image" style="border-radius: 10px; width: 100%; max-width: 300px;" />
     </td>
   </tr>
 </table>
