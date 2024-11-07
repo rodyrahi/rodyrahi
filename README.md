@@ -48,8 +48,9 @@
       <ul>
         <li><strong>App Store Review Analysis</strong>: EDA and sentiment analysis using Python, NLTK, scikit-learn, and Matplotlib</li>
         <li><strong>HealthStat Solutions</strong>: Interactive Power BI dashboard for healthcare analytics</li>
-        <li><a href="https://github.com/rodyrahi?tab=repositories"> <img src="https://github.com/user-attachments/assets/64d80754-9f0f-44e8-bc72-777e60fc512c" />
-</a></li>
+        <a href="https://github.com/rodyrahi?tab=repositories"> 
+          <img src="https://github.com/user-attachments/assets/64d80754-9f0f-44e8-bc72-777e60fc512c" style="border-radius: 10px; width: 100%; max-width: 200px;" />
+        </a>
       </ul>
     </td>
   </tr>
