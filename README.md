@@ -26,7 +26,8 @@
 👯 I’m open to collaborating on **data analysis, machine learning, and web development projects**  
 ⚡ Fun fact: I’m a space enthusiast! Stars and coding—both are limitless! ✨
 
-<img 
+<img src="https://github.com/user-attachments/assets/aee3c7dc-1905-48c7-bcc8-47bbfe15bc2b" alt="zSm3OcE" align="right" width="300" style="border-radius: 10px; margin-left: 20px;" />
+
 ---
 
 ## 🌌 Projects
