@@ -55,7 +55,7 @@
 ---
 
 <div align="center">
-  <em>Here’s a space-themed fact to end with: Did you know that there are more stars in the universe than grains of sand on all the beaches on Earth? 🌌✨</em>
+  <em>It's all About making a change 🌌✨</em>
 </div>
 
 
