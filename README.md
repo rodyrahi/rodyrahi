@@ -23,10 +23,10 @@
     <!-- About Me Section on the Left -->
     <td style="vertical-align: top; width: 50%;">
       <h2>🚀 About Me</h2>
-      <p>🔭 I’m currently working on <strong>Pivott</strong>, a Data Science Project</p>
-      <p>🌱 I’m always learning new tools and technologies to enhance my skillset</p>
-      <p>👯 I’m open to collaborating on <strong>data analysis, machine learning, and web development projects</strong></p>
-      <p>⚡ Fun fact: I’m a space enthusiast! Stars and coding—both are limitless! ✨</p>
+      <p> - 🔭 I’m currently working on <strong>Pivott</strong>, a Data Science Project</p>
+      <p> - 🌱 I’m always learning new tools and technologies to enhance my skillset</p>
+      <p> - 👯 I’m open to collaborating on <strong>data analysis, machine learning, and web development projects</strong></p>
+      <p> - ⚡ Fun fact: I’m a space enthusiast! Stars and coding—both are limitless! ✨</p>
     </td>
     <!-- Image on the Right -->
     <td style="vertical-align: top; width: 50%;">
