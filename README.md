@@ -15,11 +15,11 @@
 </div>
 
 
-<hr>
+<br>
 
 
 <table>
-  <tr>
+  <tr style="background-color:red" >
     <!-- About Me Section on the Left -->
     <td style="vertical-align: top; width: 50%;">
       <h2>🚀 About Me</h2>
