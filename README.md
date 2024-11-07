@@ -38,13 +38,15 @@
 
 
 <table>
-  <tr  >
+  <tr>
     <!-- About Me Section on the Left -->
     <td style="vertical-align: top; width: 50%;">
       <h2>🌌 Projects</h2>
-      <p> <strong>App Store Review Analysis<strong/>: EDA and sentiment analysis using Python, NLTK, scikit-learn, and Matplotlib</p>
-      <p> <strong>HealthStat Solutions<strong/>: Interactive Power BI dashboard for healthcare analytics</p>
-      <a href="https://github.com/rodyrahi?tab=repositories"> More Projects </p>
+      <ul>
+        <li><strong>App Store Review Analysis</strong>: EDA and sentiment analysis using Python, NLTK, scikit-learn, and Matplotlib</li>
+        <li><strong>HealthStat Solutions</strong>: Interactive Power BI dashboard for healthcare analytics</li>
+      </ul>
+      <a href="https://github.com/rodyrahi?tab=repositories">More Projects</a>
     </td>
     <!-- Image on the Right -->
     <td style="vertical-align: top; width: 50%;">
@@ -52,6 +54,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ## 🌌 Projects
