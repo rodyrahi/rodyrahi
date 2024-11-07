@@ -53,9 +53,11 @@
 - 📫 **Email**: [rajvendrarahi126@gmail.com](mailto:rajvendrarahi126@gmail.com)
 
 ---
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/7ff7a238-250a-40b9-bb04-19c07809b367" style="border-radius: 2rem;" height="500" width="1000"/>
+  </p>
 
 
-  ![2024-11-07--It-s-all-About-making-a-change-](https://github.com/user-attachments/assets/7ff7a238-250a-40b9-bb04-19c07809b367)
 
 
 
