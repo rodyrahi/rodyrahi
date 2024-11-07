@@ -9,7 +9,7 @@
 
   <br>
   <p>I'm Rajvendra Rahi from India, a passionate coder who loves creating solutions and exploring the world of tech. Welcome to my GitHub profile! Here, you'll find projects that span data analysis, machine learning, and more. 🌌</p>
-  
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodyrahi&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=rodyrahi&show_icons=true&theme=radical" alt="GitHub Stats" />
 
