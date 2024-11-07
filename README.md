@@ -19,7 +19,7 @@
 
 
 <table>
-  <tr style="background-color:red;" >
+  <tr  >
     <!-- About Me Section on the Left -->
     <td style="vertical-align: top; width: 50%;">
       <h2>🚀 About Me</h2>
