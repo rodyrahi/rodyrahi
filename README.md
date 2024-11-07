@@ -17,7 +17,6 @@
 
 ---
 
-![zSm3OcE](https://github.com/user-attachments/assets/aee3c7dc-1905-48c7-bcc8-47bbfe15bc2b)
 
 
 <div style="display: flex; align-items: center; gap: 20px;">
