@@ -19,13 +19,13 @@
 
 ---
 
+![zSm3OcE](https://github.com/user-attachments/assets/aee3c7dc-1905-48c7-bcc8-47bbfe15bc2b)
+
 ## 🚀 About Me
 - 🔭 I’m currently working on **Pivott**, a Data Science Project
 - 🌱 I’m always learning new tools and technologies to enhance my skillset
 - 👯 I’m open to collaborating on **data analysis, machine learning, and web development projects**
 - ⚡ Fun fact: I’m a space enthusiast! Stars and coding—both are limitless! ✨
-
-![3d-illustration-astronaut-pose-against-isolated-on-black-background-with-alpha-channel-video](https://github.com/user-attachments/assets/4b2a24b4-16c2-4de7-8c00-e04386d1cdfe)
 
 ## 🌌 Projects
 - **App Store Review Analysis**: EDA and sentiment analysis using Python, NLTK, scikit-learn, and Matplotlib
