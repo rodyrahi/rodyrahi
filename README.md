@@ -14,9 +14,9 @@
   Welcome to my GitHub profile! Here, you'll find projects that span data analysis, machine learning, and more. 🌌
   </pre>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodyrahi&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodyrahi&layout=compact&theme=ambient_gradient" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=rodyrahi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rodyrahi&show_icons=true&theme=ambient_gradient" alt="GitHub Stats" />
 
 </div>
 
